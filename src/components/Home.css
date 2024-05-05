@@ -1,0 +1,34 @@
+.home-page {
+    position: relative;
+  }
+  
+  .designing-quote {
+    text-align:right;
+    margin-top: 50px;
+    color: #f8f8f8; /* You can change the color as per your design */
+    font-family: sans-serif;
+    margin-top: 14%;
+    padding-right: 300px;
+    padding-top: 55px;
+    
+  }
+  
+  .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    background-size: cover;
+    background-image: url('../assets/bg2.jpg');
+    opacity: 1; /* Adjust the opacity as per your design */
+    z-index: -1;
+  }
+
+  .designing-quote h1{
+    font-size:70px;
+  }
+  
+ .nav-link {
+      margin-right: 70px;
+    }

@@ -1,0 +1,35 @@
+.dashboard-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+  
+  .dashboard-heading {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .stat-card {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .total-firs {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .resolved-firs {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .pending-firs {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
